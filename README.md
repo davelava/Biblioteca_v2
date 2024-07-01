@@ -1,2 +1,3 @@
 # Biblioteca_v2
-# creado por Teresa 
+# creado por Jose Fernando Davelouis
+# en cooperacion de Teresa 
